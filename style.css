@@ -61,3 +61,63 @@ header{
       padding-left: 200px;
   }
 
+  .desno2 img {
+      width: 90px;
+      height: 90px;
+  }
+
+  .desno2{
+    float: right;
+    margin-top: 200px;
+    margin-left: 200px;
+    
+}
+
+.button2 {
+    background-color: #FAED26;
+    border: none;
+    color: black;
+    padding: 20px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+   
+  }
+
+  .gumbovi{
+      float: right;
+      margin-right: 25px;
+  }
+
+
+  #github span {
+      vertical-align: middle;
+  }
+  
+  #github img {
+    vertical-align: middle;
+    width: 40px;
+    height: 40px;
+}
+
+#github{
+    float:right;
+    margin-top: 110px;
+    margin-left: 60px;
+
+}
+
+.lijevo2{
+    padding-left: 255px;
+    font-size: 72px;
+    margin-top: 220px;
+}
+
+.lijevo2 a {
+
+   position: relative;
+   margin-left: 98px;
+}
