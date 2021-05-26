@@ -121,3 +121,58 @@ header{
    position: relative;
    margin-left: 98px;
 }
+.naslov{
+    margin-top: 450px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.autori{
+    margin-top: 200px;
+}
+
+.autor span {
+    position: relative;
+    float: left;
+    background-color: #D74411;
+    border: none;
+    color: #FAED26;
+    padding: 12px 35px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 24px;
+    margin: 4px 2px;
+    border-radius: 10px;
+    margin-left: 90px;
+    
+}
+.autor img {
+    position: relative;
+    float: left;
+    clear: both;
+    margin-left: 90px;
+    margin-top: 50px;
+}
+
+.autor{
+    position: relative; 
+    float: left;
+    max-width: 22%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.autor p {
+    position: relative; 
+    float: left;
+    text-align: left;
+    margin-top: 50px;
+} 
+
+.autor .wutface {
+    position: relative; 
+    float: left;
+    text-align: left;
+    margin-left: 95px;
+} 
+
